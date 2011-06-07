@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description url="PaxRunnerHelios">
+      Pax Runner Eclipse Plugin (Helios)
+   </description>
+   <feature url="features/org.ops4j.pax.runner.eclipse.core.feature_1.7.5.201106072115.jar" id="org.ops4j.pax.runner.eclipse.core.feature" version="1.7.5.201106072115">
+      <category name="PaxRunner"/>
+   </feature>
+   <feature url="features/org.ops4j.pax.runner.eclipse.ui.feature_1.7.5.201106072115.jar" id="org.ops4j.pax.runner.eclipse.ui.feature" version="1.7.5.201106072115">
+      <category name="PaxRunner"/>
+   </feature>
+   <category-def name="PaxRunner" label="Pax Runner (Helios)">
+      <description>
+         Pax Runner Eclipse Plugin for Helios.
+      </description>
+   </category-def>
+</site>
